@@ -1,2 +1,2 @@
-# 10-Academy-Week0-Task-2
-assessment
+# 10-Academy
+* To store my solution for week 0 task 2
